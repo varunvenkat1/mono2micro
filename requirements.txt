@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+tree-sitter
+chromadb
+sentence-transformers
+tree_sitter_c_sharp
+tree_sitter_java
+#python-multipart
+#accelerate
+asyncpg
+#ollama
+openai
+faiss-cpu
+numpy
+networkx
+scikit-learn
